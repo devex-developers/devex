@@ -22,7 +22,7 @@ You have been appointed as a Junior Developer at a Startup Company! DevEx is a g
 ## Getting Started
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/your-username/devex.git
+   git clone https://github.com/devex-developers/devex
    cd devex
    ```
 
